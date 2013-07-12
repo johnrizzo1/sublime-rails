@@ -8,11 +8,17 @@ Right now you'll have to clone this git repo into the sublime text plugins direc
 
 # Commands
 
+Right now I'm assigning two keystroke commands as indicated below.
+
 ## Bundler
-* bundle list
-* bundle install
-* bundle update
-* bundle exec
+* bundle list: super+alt+b, l
+* bundle install: super+alt+b, i
+* bundle update: super+alt+b, u
+* bundle exec: super+alt+b, e
+
+I'm working on much more so check the issues/enhancments for more.
+
+# Gratitude
 
 This project was inspired by the work of many other people including;
 * The awesome Sublime Text package
