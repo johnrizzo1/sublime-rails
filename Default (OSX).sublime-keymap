@@ -1,0 +1,6 @@
+[
+  { "keys": ["super+alt+b", "l"], "command": "bundle_list" },
+  { "keys": ["super+alt+b", "u"], "command": "bundle_update" },
+  { "keys": ["super+alt+b", "i"], "command": "bundle_install" },
+  { "keys": ["super+alt+b", "e"], "command": "bundle_exec"}
+]

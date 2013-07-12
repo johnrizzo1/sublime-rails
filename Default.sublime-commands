@@ -1,0 +1,6 @@
+[
+    {   "caption": "Bundler: List Gems", "command": "bundle_list"},
+    {   "caption": "Bundler: Update Gems", "command": "bundle_update"},
+    {   "caption": "Bundler: Install Gems", "command": "bundle_install"}
+    {   "caption": "Bundler: Exec", "command": "bundle_exec"},
+]

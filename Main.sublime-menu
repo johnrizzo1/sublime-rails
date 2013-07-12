@@ -1,0 +1,42 @@
+[
+{
+    "caption": "Tools",
+    "mnemonic": "T",
+    "id": "tools",
+    "children":
+    [
+    {
+        "caption": "Bundler",
+        "mnemonic": "B",
+        "id": "bundler",
+        "children":
+        [
+        {
+            "caption": "Bundle List",
+            "mnemonic": "l",
+            "id": "bundler-list",
+            "command": "bundle_list"
+        },
+        {
+            "caption": "Bundle Install",
+            "mnemonic": "i",
+            "id": "bundler-install",
+            "command": "bundle_install"
+        },
+        {
+            "caption": "Bundle Update",
+            "mnemonic": "u",
+            "id": "bundler-update",
+            "command": "bundle_update"
+        },
+        {
+            "caption": "Bundle Exec",
+            "mnemonic": "e",
+            "id": "bundler-exec",
+            "command": "bundle_exec"
+        }
+        ]
+    }
+    ]
+}
+]
